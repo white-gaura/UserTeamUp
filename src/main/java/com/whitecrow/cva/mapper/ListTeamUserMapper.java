@@ -2,7 +2,6 @@ package com.whitecrow.cva.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
-import com.whitecrow.cva.model.domain.User;
 import com.whitecrow.cva.model.vo.UserVO;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
